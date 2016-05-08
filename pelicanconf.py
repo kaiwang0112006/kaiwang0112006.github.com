@@ -41,7 +41,7 @@ THEME = u"alchemy"
 STATIC_PATHS = ['images']
 
 # alchemy setting
-#SITE_SUBTEXT = "Blabla"
+SITE_SUBTEXT = "Fun blog of my own"
 PROFILE_IMAGE = "/images/peney_150x150.jpg"
 GITHUB_ADDRESS = "https://github.com/kaiwang0112006"
 LICENSE_NAME = "MIT"
