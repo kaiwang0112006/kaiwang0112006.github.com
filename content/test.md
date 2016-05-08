@@ -1,6 +1,12 @@
-Title: 文章标题
-Date: 2013-04-18
-Category: 文章类别
-Tag: 标签1, 标签2
+Title: My super title
+Date: 2015-05-13 10:20
+Modified: 2015-05-15 19:30
+Category: Python
+Tags: pelican, publishing
+Slug: my-super-post
+Authors: Kai Wang
+Summary: Short version for index and feeds
 
-这里是内容
+My super content
+
+![Alt Text]({filename}/images/peney.jpg)

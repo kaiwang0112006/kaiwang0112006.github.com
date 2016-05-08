@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Asia/Shanghai'
+TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
@@ -33,3 +33,23 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# THEME
+THEME = u"alchemy"
+
+# static
+STATIC_PATHS = ['images']
+
+# alchemy setting
+#SITE_SUBTEXT = "Blabla"
+PROFILE_IMAGE = "/images/peney_150x150.jpg"
+GITHUB_ADDRESS = "https://github.com/kaiwang0112006"
+LICENSE_NAME = "MIT"
+LICENSE_URL = "https://opensource.org/licenses/MIT"
+MENU_ITEMS = {}
+#META_DESCRIPTION = "aph"
+PAGES_ON_MENU = True
+CATEGORIES_ON_MENU = True
+TAGS_ON_MENU = True
+ARCHIVES_ON_MENU = True
+SHOW_ARTICLE_AUTHOR = False
