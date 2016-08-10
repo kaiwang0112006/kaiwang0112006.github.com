@@ -4,6 +4,7 @@ Modified: 2015-05-08 19:30
 Category: Python
 Tags: itertools
 Authors: Kai Wang
+Slug: post1
 Summary: A simple example of the usage of itertools
 
 实现一个列表（或者说一个数组）的排列组合是一个写脚本处理数据时很常见的小问题。在python中可以通过itertools生成器简单实现这个功能。不用废话，直接用代码说话。
